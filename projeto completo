@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equipe Alura Start</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="alurastart logo.png" alt="logo da alura start">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">WhatsApp</li>
+            <li class="cabecalho-lista-item">Ifood</li>
+        </ul>
+    </header>
+    <section class="escola">
+        <div class="escola-div-conteudo">
+            <h2 class="escola-titulo">Sobre nossa loja </h2>
+            <p class="escola-texto-um">Somos uma loja 100% segura, cuidados em higiene são nossa prioridade .</p>
+            <p class="escola-texto-dois">
+               Nossos serviços são artesanais, doces feitos com ingredientes de ótima qualidade, Venha conferir!</p>
+        </div>
+        <img class="escola-imagem" src="Eating donuts-amico.png" alt="">
+    </section>
+    <section class="estudante">
+        <h2 class="estudante-titulo">Top 1 em vendas!</h2>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="/home/escola/Downloads/c/images.jpeg" alt="foto do marcelo">
+            <h3 class="estudante-nome">brigadeiros</h3>
+            <img class="estudante-icone" src="brigadeiro de chocolete " alt="brigadeiro de chocolete ">
+            <img class="estudante-icone" src="brigadeiro de beijinho " alt="brigadeiro de beijinho">
+            <img class="estudante-icone" src="brigadeiro de pacoça" alt="brigadeiro de pacoça">
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="/home/escola/Downloads/c/pirulitos_13_137828.jpeg" alt="foto do marcelo">
+            <h3 class="estudante-nome">Doce no palito</h3>
+            <img class="estudante-icone" src="github.png" alt="Chocolate branco ">
+            <img class="estudante-icone" src="linkedin.png" alt="Chocolate meio amargo">
+            <img class="estudante-icone" src="instagram.png" alt="Chocolate zero">
+        </div>
+    </section>
+</body>
+
+</html>
